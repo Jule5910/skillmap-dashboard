@@ -1,0 +1,8 @@
+[phases.install]
+cmds = ["echo skip"]
+
+[phases.build]
+cmds = ["echo skip"]
+
+[start]
+cmd = "bash start.sh"
